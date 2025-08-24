@@ -99,12 +99,13 @@ constitution-pakistan-rag/
 - **Clean Code**: Focused on core RAG functionality
 - **Reliable Performance**: Consistent, fast responses
 
-## 📞 Support
+##  Support
 
 This chatbot provides **professional-grade constitutional assistance** with:
 - Instant answers
 - Source verification
 - Reliable performance
 - Clean interface
+
 
 **Perfect for legal professionals, students, and anyone interested in Pakistan's Constitution!** 🎉
